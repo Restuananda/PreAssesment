@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PraAssesment</string>
+    <string name="Persegi_panjang">Persegi Panjang</string>
+    <string name="Segitiga">Segitiga</string>
+    <string name="Nama">Restu ananda saputra</string>
+    <string name="Nim">6706184087</string>
+    <string name="Kelas">42-02</string>
+    <string name="Panjang">Panjang</string>
+    <string name="Lebar">Lebar</string>
+    <string name="hitung">Hitung</string>
+    <string name="about">about</string>
+
+</resources>

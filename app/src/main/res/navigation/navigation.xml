@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/navigation.xml" app:startDestination="@id/pilihFragment">
+    <fragment android:id="@+id/aboutFragment2" android:name="com.example.praassesment.AboutFragment"
+              android:label="AboutFragment"/>
+    <fragment android:id="@+id/persegiFragment" android:name="com.example.praassesment.PersegiFragment"
+              android:label="PersegiFragment"/>
+    <fragment android:id="@+id/pilihFragment" android:name="com.example.praassesment.PilihFragment"
+              android:label="PilihFragment"/>
+</navigation>
